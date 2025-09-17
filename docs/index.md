@@ -1,7 +1,5 @@
-# 인체 역학적 보상작용 위키
+# 보상작용 위키 (심플)
 - 마지막 업데이트: **2025-09-17 18:54 UTC**
-
-- ### 물리치료사를 위한 인체역학 자료 분석실입니다. 
 
 ## 최신 논문
 - **Falls and freezing of gait in Parkinson's disease: A review of two interconnected, episodic phenomena** (2004) → [DOI](https://doi.org/10.1002/mds.20115)
@@ -19,5 +17,9 @@
 - 그래프 보기: [graph.html](graph.html)
 
 ## 논문 목록 (파일)
-
 - 목록: [papers/](papers/)
+
+
+
+<link rel="stylesheet" href="assets/mini-graph.css">
+<script src="assets/mini-graph.js"></script>
